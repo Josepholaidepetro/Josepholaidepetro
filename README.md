@@ -1,6 +1,14 @@
 ## Welcome to my GitHub Repository!
 ### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Engineering, driven by Machine Learning applications in the energy industry and the world.  If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
+I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Engineering, driven by Machine Learning applications in the technological industries. If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
+
+### Focus
+
+1. Data Science
+2. MLOps
+3. Natural Language Processing
+4. Time Series
+
 <br/>
 
 ---
@@ -28,6 +36,6 @@ I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Eng
 
 ### 💬 Contact me
 
-* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-olaide-831275168/) 
+* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepholaide/) 
 * [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepholaide10@gmail.com)
 * ![twitter-follower](https://img.shields.io/twitter/follow/ace_sprint?style=social)
