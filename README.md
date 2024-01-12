@@ -1,13 +1,13 @@
 ## Welcome to my GitHub Repository!
 ### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a Data Scientist and a Machine Learning Developer with a touch of Cloud Engineering, driven by Machine Learning applications in the technological industries. If you would like to collaborate, kindly [contact me](https://github.com/Josepholaidepetro/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
+I am machine learning engineer, driven by Machine Learning applications in the Big Tech, Finance and Energy industries. If you would like to collaborate, kindly [contact me](https://github.com/Josepholaide/olaidejoseph/blob/main/README.md#-contact-me) if you wish!
 
-### Focus
+### Interests
 
 1. Data Science
-2. MLOps
-3. Natural Language Processing
-4. Time Series
+2. Machine Learning
+3. Data Engineering
+4. Software Development
 
 <br/>
 
