@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Repository!
 ### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Machine Learning Engineer, driven by Machine Learning applications in the Big Tech, Finance and Energy industries. If you would like to collaborate on Machine Learning Operation and ML product development, kindly [contact me]([https://github.com/Josepholaide/olaidejoseph/blob/main/README.md#-contact-me](https://www.linkedin.com/in/josepholaide/)) if you wish!
+* I am Machine Learning Engineer, driven by Machine Learning applications in the Big Tech, Finance and Energy industries.
+* If you would like to collaborate on Machine Learning Operation and ML product development, kindly [contact me]([https://github.com/Josepholaide/olaidejoseph/blob/main/README.md#-contact-me](https://www.linkedin.com/in/josepholaide/))
 
 ### Interests
 
