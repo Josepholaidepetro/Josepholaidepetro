@@ -1,8 +1,7 @@
 ## Welcome to my GitHub Repository!
-### Hi, I am Joseph<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-* I am Machine Learning Engineer, driven by Machine Learning applications in the Big Tech, Finance and Energy industries.
-* If you would like to collaborate on Machine Learning Operations and ML product development, 
-kindly reach me [here](https://www.linkedin.com/in/josepholaide/)
+### Hi, I'm Joseph Olaide<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm a **Machine Learning Engineer** and **Data Scientist** with a background in **Chemical and Petroleum Engineering**. I specialize in building **machine learning models** and **data pipelines** to solve complex problems.
 
 ### Interests
 
@@ -27,4 +26,3 @@ kindly reach me [here](https://www.linkedin.com/in/josepholaide/)
 
 * [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepholaide/) 
 * [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepholaide10@gmail.com)
-* ![twitter-follower](https://img.shields.io/twitter/follow/ace_sprint?style=social)
